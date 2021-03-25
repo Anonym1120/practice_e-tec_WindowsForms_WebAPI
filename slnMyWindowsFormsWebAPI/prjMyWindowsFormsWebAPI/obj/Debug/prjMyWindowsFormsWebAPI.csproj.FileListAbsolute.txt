@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\myWindowsFormsWebAPI\slnMyWindowsFormsWebAPI\prjMyWindowsFormsWebAPI\bin\Debug\prjMyWindowsFormsWebAPI.exe.config
+C:\Users\User\Desktop\myWindowsFormsWebAPI\slnMyWindowsFormsWebAPI\prjMyWindowsFormsWebAPI\bin\Debug\prjMyWindowsFormsWebAPI.exe
+C:\Users\User\Desktop\myWindowsFormsWebAPI\slnMyWindowsFormsWebAPI\prjMyWindowsFormsWebAPI\bin\Debug\prjMyWindowsFormsWebAPI.pdb
+C:\Users\User\Desktop\myWindowsFormsWebAPI\slnMyWindowsFormsWebAPI\prjMyWindowsFormsWebAPI\obj\Debug\prjMyWindowsFormsWebAPI.csprojAssemblyReference.cache
+C:\Users\User\Desktop\myWindowsFormsWebAPI\slnMyWindowsFormsWebAPI\prjMyWindowsFormsWebAPI\obj\Debug\prjMyWindowsFormsWebAPI.Form1.resources
+C:\Users\User\Desktop\myWindowsFormsWebAPI\slnMyWindowsFormsWebAPI\prjMyWindowsFormsWebAPI\obj\Debug\prjMyWindowsFormsWebAPI.Properties.Resources.resources
+C:\Users\User\Desktop\myWindowsFormsWebAPI\slnMyWindowsFormsWebAPI\prjMyWindowsFormsWebAPI\obj\Debug\prjMyWindowsFormsWebAPI.csproj.GenerateResource.cache
+C:\Users\User\Desktop\myWindowsFormsWebAPI\slnMyWindowsFormsWebAPI\prjMyWindowsFormsWebAPI\obj\Debug\prjMyWindowsFormsWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\myWindowsFormsWebAPI\slnMyWindowsFormsWebAPI\prjMyWindowsFormsWebAPI\obj\Debug\prjMyWindowsFormsWebAPI.exe
+C:\Users\User\Desktop\myWindowsFormsWebAPI\slnMyWindowsFormsWebAPI\prjMyWindowsFormsWebAPI\obj\Debug\prjMyWindowsFormsWebAPI.pdb
