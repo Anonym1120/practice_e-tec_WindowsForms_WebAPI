@@ -59,13 +59,12 @@ namespace prjMyWindowsFormsWebAPI
                 response.Close();
             }
             else if (cboxMethods.SelectedIndex == 1) //POST
-            { //待修正
+            {
                 request.Method = "POST";
                 request.ContentType = "application/json";
 
                 var streamWriter = new StreamWriter(request.GetRequestStream());
-                string json = new JavaScriptSerializer().Serialize(txtInput.Text);
-                streamWriter.Write(json);
+                streamWriter.Write(txtInput.Text);
                 streamWriter.Flush();
                 streamWriter.Close();
 
@@ -81,7 +80,7 @@ namespace prjMyWindowsFormsWebAPI
                 reader.Close();
             }
             else if (cboxMethods.SelectedIndex == 2) //PUT
-            { //待修正
+            {
                 request.Method = "PUT";
                 request.ContentType = "application/json";
 
